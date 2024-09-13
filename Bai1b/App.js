@@ -1,5 +1,6 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View , Image } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+
 const App = () => {
   return (
       <LinearGradient  colors={['#C7F4F6','#D1F4F6','#E5F4F5','#37D6F8','#00CCF9']}
@@ -24,6 +25,7 @@ const App = () => {
 
         <View style = {styles.box5}>
           <Text style={{fontSize : 18 , fontWeight : '700'}}>HOW WE WORK?</Text>
+     
         </View>
       </LinearGradient>
   );
