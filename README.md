@@ -1,4 +1,6 @@
-![Hình minh họa](./screen/first_screen.jpg)
-![Hình minh họa](./screen/cau1a.png.jpg)
-![Hình minh họa](./screen/cau1b.jpg.jpg)
-![Hình minh họa](./screen/cau1c.jpg.jpg)
+<p align="center">
+  <img src="./screen/first_screen.jpg" width="200"/>
+  <img src="./screen/cau1a.png" width="200"/>
+  <img src="./screen/cau1b.jpg" width="200"/>
+  <img src="./screen/cau1c.jpg" width="200"/>
+</p>
